@@ -107,12 +107,6 @@ This section provides a detailed guide on setting up and using the Power BI dash
    - Specify the destination page for each button.
    - To use the buttons, hold `Ctrl` and click.
 
-# Snapshot of Dashboard (Power BI Service)
-
-![E Commerce Project 1st page](https://github.com/ramya-1303/E-Commerce-Analysis/assets/115096109/30b374ef-2a55-428d-8b48-380688c2896c)
-
-![E Commerce Project 2nd page](https://github.com/ramya-1303/E-Commerce-Analysis/assets/115096109/933822bc-befd-43a7-94c8-5a213a42841f)
-
 
 ### Conclusion
 
