@@ -36,13 +36,6 @@ This section provides a step-by-step guide on how to utilize Excel for analyzing
    - Apply consistent formatting to all charts and tables for better readability.
    - Use conditional formatting to highlight key metrics and outliers.
 
-# Snapshot of Excel Workbook 
-
-![Snap 1](https://github.com/ramya-1303/E-Commerce-Analysis/assets/115096109/5458c5a0-717b-42e0-8167-8b3deea9795e)
-
-![Snap 2](https://github.com/ramya-1303/E-Commerce-Analysis/assets/115096109/5a97720d-b001-4263-9389-4325635f9612)
-
-![Snap 3](https://github.com/ramya-1303/E-Commerce-Analysis/assets/115096109/b2a0bcaf-b85a-44f7-a6a2-75fbf95e8c0e)
 
 ### Conclusion
 
